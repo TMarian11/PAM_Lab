@@ -6,7 +6,7 @@ void main() {
 
 class CurrencyConverterApp extends StatelessWidget {
   @override
-  Widget build(BuildContext context) {
+  Widget build(BuildContext context) { 
     return MaterialApp(
       title: 'Schimb Valutar',
       theme: ThemeData(
